@@ -1,1 +1,3 @@
 # ffryk
+
+cout << "hello world!";
